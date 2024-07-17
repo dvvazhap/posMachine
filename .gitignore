@@ -1,0 +1,6 @@
+node_modules/
+dist/
+
+/abc.db
+/bundle.js
+/package-lock.json
