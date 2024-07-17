@@ -1,0 +1,47 @@
+[
+  {
+    "item": "Biriyani",
+    "imageUrl": "",
+    "price": 160,
+    "gst": 5.00,
+    "category": "Rice",
+    "kotCategory": "Main",
+    "type": "veg"
+  },
+  {
+    "item": "Chicken Noodles",
+    "imageUrl": "",
+    "price": 120,
+    "gst": 5.00,
+    "category": "Chineese",
+    "kotCategory": "Main",
+    "type": "non-veg"
+  },
+  {
+    "item": "Coffee",
+    "imageUrl": "",
+    "price": 10,
+    "gst": 0,
+    "category": "Beverages",
+    "kotCategory": "Drinks",
+    "type": "drink"
+  },
+  {
+    "item": "Neymeen Fry",
+    "imageUrl": "",
+    "price": 0,
+    "gst": 5.00,
+    "category": "South Indian",
+    "kotCategory": "Main",
+    "type": "non-veg"
+  },
+  {
+    "item": "Porotta",
+    "imageUrl": "",
+    "price": 12,
+    "gst": 5.00,
+    "category": "Bread",
+    "kotCategory": "Porotta",
+    "type": "veg"
+  }
+]

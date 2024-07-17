@@ -1,0 +1,26 @@
+.tableStatus{
+  border: 2px solid black;
+  border-radius: 10px;
+  // width: 50px;
+  height: 40px;
+  padding: 5px;
+  text-align: 'center';
+  margin-right: 10px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+}
+
+.order-item:nth-child(odd){
+  background-color: aqua;
+}
+.order-item:nth-child(even){
+  background-color: beige;
+}
+
+th,td{
+  height: 50px;
+}
